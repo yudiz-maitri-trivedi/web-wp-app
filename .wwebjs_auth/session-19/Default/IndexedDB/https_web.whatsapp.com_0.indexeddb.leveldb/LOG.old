@@ -1,0 +1,20 @@
+2023/11/29-13:16:18.561 ac03 Reusing MANIFEST /Users/maitri/Documents/whatsappWeb/.wwebjs_auth/session-19/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/29-13:16:18.562 ac03 Recovering log #144
+2023/11/29-13:16:18.611 ac03 Reusing old log /Users/maitri/Documents/whatsappWeb/.wwebjs_auth/session-19/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000144.log 
+2023/11/29-13:16:37.143 8003 Level-0 table #153: started
+2023/11/29-13:16:37.182 8003 Level-0 table #153: 949821 bytes OK
+2023/11/29-13:16:37.227 8003 Delete type=0 #144
+2023/11/29-13:16:37.238 8003 Compacting 1@1 + 5@2 files
+2023/11/29-13:16:37.316 8003 Generated table #154@1: 39279 keys, 2210381 bytes
+2023/11/29-13:16:37.369 8003 Generated table #155@1: 2709 keys, 2159835 bytes
+2023/11/29-13:16:37.433 8003 Generated table #156@1: 16483 keys, 2214480 bytes
+2023/11/29-13:16:37.515 8003 Generated table #157@1: 50836 keys, 2226082 bytes
+2023/11/29-13:16:37.567 8003 Generated table #158@1: 45674 keys, 995606 bytes
+2023/11/29-13:16:37.567 8003 Compacted 1@1 + 5@2 files => 9806384 bytes
+2023/11/29-13:16:37.611 8003 compacted to: files[ 0 0 5 0 0 0 0 ]
+2023/11/29-13:16:37.612 8003 Delete type=2 #149
+2023/11/29-13:16:37.612 8003 Delete type=2 #148
+2023/11/29-13:16:37.612 8003 Delete type=2 #146
+2023/11/29-13:16:37.612 8003 Delete type=2 #147
+2023/11/29-13:16:37.612 8003 Delete type=2 #153
+2023/11/29-13:16:37.612 8003 Delete type=2 #150
